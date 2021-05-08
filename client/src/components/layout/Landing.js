@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 const Landing = () => {
     return (
         <div>
-            <section class="landing">
+            <section className="landing">
       <div className="dark-overlay">
         <div className="landing-inner">
           <h1 className="x-large">Developer Connector</h1>
